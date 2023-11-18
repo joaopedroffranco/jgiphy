@@ -1,0 +1,13 @@
+{
+    "data": [],
+    "pagination": {
+        "total_count": 30772,
+        "count": 50,
+        "offset": 0
+    },
+    "meta": {
+        "status": 200,
+        "msg": "OK",
+        "response_id": "jeb98ysqx8zjww849h4hx0e43vsj5i7fzicc2knd"
+    }
+}

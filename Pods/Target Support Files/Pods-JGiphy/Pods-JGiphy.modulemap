@@ -1,0 +1,6 @@
+framework module Pods_JGiphy {
+  umbrella header "Pods-JGiphy-umbrella.h"
+
+  export *
+  module * { export * }
+}
